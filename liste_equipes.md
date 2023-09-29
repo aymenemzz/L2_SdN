@@ -1,2 +1,4 @@
-1 | La Launay Toons : Candice - Tom - Toby - Clement \
-2 | Les Bajoues : Charles - Mathéo - Thanina
+# Liste des équipes :
+
+1. **La Launay Toons** : Candice - Tom - Toby - Clement \
+2. **Les Bajoues** : Charles - Mathéo - Thanina
