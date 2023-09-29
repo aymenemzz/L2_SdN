@@ -1,3 +1,4 @@
+
 # La méthode SCRUM
 
 La méthode SCRUM est une méthode agile qui s’adapte aux projets Web, et permet aux développeurs d’être au plus près des besoins du marché, en leur évitant de développer des choses qui ne seront pas utilisées.
