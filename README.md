@@ -5,6 +5,6 @@
 -Extreme Programming (XP) \
 -Kanban \
 -Dynamic Systems Development Method (DSDM) \
--Crystal \ 
+-Crystal \
 -Feature Driven Development (FDD) \
 -Lean Software Development
