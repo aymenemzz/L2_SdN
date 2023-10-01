@@ -6,4 +6,4 @@
 * restez courtois dans les issues
 
 ### Les Branche
-* Pour creer une nouvelle branche merci d'utiiser les commande approprier ``` git branch nom_de_la_branche ``` ou l'interface graphique de github (PAS D'ISSUES !)
+* Pour creer une nouvelle branche merci d'utiliser les commande approprié ``` git branch nom_de_la_branche ``` ou l'interface graphique de github (PAS D'ISSUES !)
