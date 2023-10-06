@@ -1,6 +1,6 @@
 # Fichier contenant les règles et la façon de travailler en équipe sur le projet
 
-Vous allez merge sur le main seulement un dossier portant le **NOM** de votre groupe. Celui-ci contiendra seulement un fichier nommé "FilDeLeau" contant vos soucis/decouvertes/avancements, un fichier nommé "suivis" expliquant la maniere dont vous avez reparti le travail et un fichier portant le nom de votre méthode agile, il est également possible d'avoir un dossier contenant vos ressources (ex des images).
+Vous allez merge sur le main seulement un dossier portant le **NOM** de votre groupe. Celui-ci contiendra seulement un fichier nommé "FilDeLeau" contant vos soucis/decouvertes/avancements, un fichier nommé "Suivis" expliquant la maniere dont vous avez reparti le travail et un fichier portant le nom de votre méthode agile, il est également possible d'avoir un dossier contenant vos ressources (ex des images).
 
 **TOUT FICHIER OU DOSSIER SUPPLÉMENTAIRE SE RETROUVERA SUPPRIMER**
 
