@@ -1,10 +1,11 @@
-# L2_SdN
-## le but est d'étudier et de présenter les méthodes de projet agile du cours, voici ces méthodes:
+# Projet L2_SdN
 
--Scrum \
--Extreme Programming (XP) \
--Kanban \
--Dynamic Systems Development Method (DSDM) \
--Crystal \
--Feature Driven Development (FDD) \
--Lean Software Development
+### Objectif :
+* Savoir gerer un projet git
+* Realiser des presentation sur les methodes agiles données
+
+### Methode de travaille
+
+Chacune des 6 equipes travailles sur sa branche et peut ensuite commit vers le main comme il l'a été prevu dans le fichier ```rules.md```.
+De cette maniere chaque groupe peut s'organiser comme il le souhaite, et le resultat final est assurer grace a des **merge** controlés.
+
