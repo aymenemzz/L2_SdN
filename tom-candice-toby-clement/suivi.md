@@ -35,8 +35,8 @@
 
     | Qui | Temps | Commentaire |
     | :-------  | :-------: | -------:  |
-    | Clément    | 2h    |     |
-    | Candice    | 2h    |     |
+    | Clément    | 1h    |     |
+    | Candice    | 1h    |     |
 
 - Entrainement sur la présentation 
 
