@@ -38,7 +38,14 @@
     | Clément    | 2h    |     |
     | Candice    | 2h    |     |
 
+- Entrainement sur la présentation 
 
+    | Qui | Temps | Commentaire |
+    | :-------  | :-------: | -------:  |
+    | Toby    | 1h    |     |
+    | Tom    | 1h    |     |
+    | Clément    | 1h    |     |
+    | Candice    | 1h    |     |
 
 
 

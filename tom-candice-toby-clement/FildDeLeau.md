@@ -177,4 +177,12 @@ Nous avons aussi fini de compléter les fichiers sur le github.
 
 ### 13/10/2023
 
+Cours de Git réalisé par Monsieur Launay
 
+### Entre le 13/10/2023 et le 20/10/2023
+
+Finialisation de la présentation sur la méthode SCRUM et du fil de l'eau.
+
+### 19/10/2023
+
+Entrainement à la présentation de la méthode SCRUM avec l'équipe. 
