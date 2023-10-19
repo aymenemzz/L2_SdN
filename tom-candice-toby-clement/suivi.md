@@ -7,8 +7,8 @@
     
     | Qui | Temps | Commentaire |
     | :-------  | :-------: | -------:  |
-    | Toby    | Centré    | Droite    |
-    | Tom    | Centré    | Droite    |
+    | Toby    | 1h    |     |
+    | Tom    | 1h    |     |
 
 - Remplissage du github (fil de l'eau et suivi)
 
@@ -21,15 +21,15 @@
 
     | Qui | Temps | Commentaire |
     | :-------  | :-------: | -------:  |
-    | Toby    | Centré    | Droite    |
-    | Tom    | Centré    | Droite    |
+    | Toby    | 1h    |     |
+    | Tom    | 1h    |     |
 
 - Préparer un support sur la méthode scrum
 
     | Qui | Temps | Commentaire |
     | :-------  | :-------: | -------:  |
-    | Toby    | Centré    | Droite    |
-    | Tom    | Centré    | Droite    |
+    | Toby    | 1h    |     |
+    | Tom    | 1h    |     |
 
 - Finir de compléter les fichiers sur Github
 
