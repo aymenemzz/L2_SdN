@@ -1,6 +1,8 @@
-# Fil de l'eau  de l'équipe Launay Toons
 
-## Notre Organisation :
+# Fil de l'eau  de l'équipe Launay Toons
+
+
+## Notre Organisation :
 
 Au début, nous avons créer une branche pour notre équipe sur le répertoire de la classe. Puis nous avons voulu créer une branche par personne pour que l'on puisse push sur notre branche d'équipe. 
 Comme c'était un peu le bazard, nous avons décidé de fork le dépot de la classe pour réaliser notre fichier.
