@@ -59,3 +59,15 @@ Alors voilà, la méthode Scrum est comme un guide amusant et organisé pour cr�
 **Engagement Actif :** Tous les membres doivent être impliqués et engagés dans le processus de développement.
 
 **Amélioration Continue :** Apprendre des erreurs et des succès pour s'améliorer constamment.
+
+## 7.  Conclusion :
+
+La méthode Scrum, bien que décrite à travers l'exemple du jeu vidéo, est une approche agile puissante et adaptable pour la gestion de projets. 
+
+En récapitulant les points clés, nous avons vu comment elle favorise la transparence, l'inspection, et l'adaptation, ce qui garantit que le produit final est en constante amélioration. 
+Les avantages de Scrum incluent une meilleure qualité des produits, une satisfaction client accrue, et la flexibilité pour s'ajuster aux besoins changeants. 
+Pour réussir avec Scrum, privilégiez une communication ouverte, l'engagement actif de toute l'équipe, et une culture d'amélioration continue. 
+
+En fin de compte, Scrum peut être un atout précieux pour tous types de projets, du développement de jeux vidéo à d'autres domaines de la science du numérique.
+
+Avez-vous des questions ? 
